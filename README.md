@@ -43,3 +43,5 @@ $ fbi s
 ```
 
 > `$ fbi ls` 可查看当前目录可用的任务和模板
+
+更多文档请查看[fbi 官方文档](https://fbi-js.github.io/docs/)
